@@ -1,0 +1,15 @@
+D:\ma\leerjaar 2\rekenen\quizeApp\quizeApp\bin\Debug\net7.0\quizeApp.exe
+D:\ma\leerjaar 2\rekenen\quizeApp\quizeApp\bin\Debug\net7.0\quizeApp.deps.json
+D:\ma\leerjaar 2\rekenen\quizeApp\quizeApp\bin\Debug\net7.0\quizeApp.runtimeconfig.json
+D:\ma\leerjaar 2\rekenen\quizeApp\quizeApp\bin\Debug\net7.0\quizeApp.dll
+D:\ma\leerjaar 2\rekenen\quizeApp\quizeApp\bin\Debug\net7.0\quizeApp.pdb
+D:\ma\leerjaar 2\rekenen\quizeApp\quizeApp\obj\Debug\net7.0\quizeApp.csproj.AssemblyReference.cache
+D:\ma\leerjaar 2\rekenen\quizeApp\quizeApp\obj\Debug\net7.0\quizeApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ma\leerjaar 2\rekenen\quizeApp\quizeApp\obj\Debug\net7.0\quizeApp.AssemblyInfoInputs.cache
+D:\ma\leerjaar 2\rekenen\quizeApp\quizeApp\obj\Debug\net7.0\quizeApp.AssemblyInfo.cs
+D:\ma\leerjaar 2\rekenen\quizeApp\quizeApp\obj\Debug\net7.0\quizeApp.csproj.CoreCompileInputs.cache
+D:\ma\leerjaar 2\rekenen\quizeApp\quizeApp\obj\Debug\net7.0\quizeApp.dll
+D:\ma\leerjaar 2\rekenen\quizeApp\quizeApp\obj\Debug\net7.0\refint\quizeApp.dll
+D:\ma\leerjaar 2\rekenen\quizeApp\quizeApp\obj\Debug\net7.0\quizeApp.pdb
+D:\ma\leerjaar 2\rekenen\quizeApp\quizeApp\obj\Debug\net7.0\quizeApp.genruntimeconfig.cache
+D:\ma\leerjaar 2\rekenen\quizeApp\quizeApp\obj\Debug\net7.0\ref\quizeApp.dll
